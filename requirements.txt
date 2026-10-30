@@ -1,0 +1,6 @@
+flask
+gunicorn
+pypdf
+python-docx
+requests
+anthropic
